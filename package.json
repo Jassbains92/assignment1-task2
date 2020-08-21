@@ -1,0 +1,25 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "Inspration from",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jassbains92/assignment1-task2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jassbains92/assignment1-task2.git"
+  },
+  "homepage": "https://github.com/Jassbains92/assignment1-task2.git#readme",
+  "dependencies": {
+    "express": "*",
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {}
+}

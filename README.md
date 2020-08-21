@@ -1,1 +1,3 @@
-# assignment1-task2
+This is a web music player having functionalities of play, pause, stop and shuffle between the songs.
+
+
